@@ -1,0 +1,21 @@
+body {
+  background: white;
+}
+
+.me-2 {
+  margin-left: 0.5rem !important;
+  margin-bottom: 50px;
+  align-items: center;
+  display: flex;
+}
+
+.content {
+  padding: 50px;
+}
+
+.eachPerson {
+  background-color: rgb(238, 230, 230);
+  padding: 10px 50px;
+  margin: 10px;
+  border-radius: 10px;
+}
